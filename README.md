@@ -1,4 +1,4 @@
-## README
+# README
 
 Given a CSV file of soccer teams in the World Cup and their FIFA ratings, tournament.py determines the percent chance that each team will win the tournament.
 
